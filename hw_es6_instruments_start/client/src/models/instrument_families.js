@@ -22,4 +22,4 @@ publishFamilyDetail(selectedIndex) {
 
 
 }
-module.exports = InstrumentFamilies;
+export default InstrumentFamilies;
